@@ -1,2 +1,2 @@
-# react-electron-typescript-boilerplate-
+# react-electron-typescript-boilerplate
 React + Typescript + Electron
